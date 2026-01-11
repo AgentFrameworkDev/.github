@@ -1,57 +1,51 @@
 # Agent Framework Dev Project
 
-The **Agent Framework Dev Project** is a community-run GitHub organization providing free materials for instructor-led, hands-on, developer-focused training for building AI agents using modern frameworks and tooling.
+The **Agent Framework Dev Project** is community initiative providing materials for instructor-led, hands-on, developer-focused training for building AI agents using modern frameworks and tooling.
 
-Our current work centers on:
+Our current lab and presentation materials focus on instructor-led lab material for **Agent Framework Dev Days** with labs, decks, and supporting assets.
 
-* **Microsoft Agent Framework** (open source, released Oct 2025)
-* **Microsoft Foundry**
-* Practical agent architectures, tools, and workflows
-* Real-world patterns for building, evaluating, and operating AI agents
+Some of our current choices:
 
-This organization hosts **open-source workshop materials, labs, and demos** used for instructor-led, hands-on events for developers learning to build AI-powered applications.
-
----
-
-## What you’ll find here
-
-Repositories in this org typically fall into one of these categories:
-
-* **Workshops** – end-to-end, instructor-led lab material
-* **Labs** – focused, hands-on exercises
-* **Demos** – minimal examples illustrating a single concept
+* Using **Microsoft Agent Framework** (open source, released Oct 2025) for building AI Agents
+* Using **Microsoft Foundry** platform for running AI Agents with observability, safety, and other enterprise-grade features
+* Applying practical agent architectures, tools, and workflows, including human-in-the loop
+* Applying useful real-world patterns for building, evaluating, and operating AI agents
 
 ---
 
 ## Audience
 
-Our primary audience is **developers** building, learning to build, or just exploring:
+Our primary audience is **developers** (and aspiring developers) building, learning to build, or just exploring.
 
-* Agent-based AI systems
-* Tool-using and workflow-driven agents
-* RAG and agentic RAG
-* Observability, evaluation ("evals")
-* AI safety
+We strive to help you get started developing Agent-based AI systems that:
+
+* Use tools
+* Use workflows
+* Apply RAG and agentic RAG patterns
+* Are observable
+* Engage AI safety mechanisms
 
 ---
 
-## Events & Community
-
-Agent Framework Dev Project materials are availble for **free, instructor-led developer events and workshops**.
+## Sponsors and Community Partners
 
 Current community partners include:
 
 * [Boston Azure AI](https://bostonazureai.org)
 
-(Some events may be supported by sponsors; repositories remain open source.)
+---
+
+## Public Event Schedule
+
+Current public events are listed on [Boston Azure AI](https://bostonazureai.org).
 
 ---
 
-## Open source & licensing
+## Open Source
 
-Unless otherwise noted, repositories in this organization are released under permissive open-source licenses (typically MIT).
+Unless otherwise noted, repositories in this organization are released under an open-source licenses (typically MIT for code, CC-BY for content).
 
-Reuse, adaptation, and contribution are encouraged.
+Reuse, adaptation, and contribution are encouraged. Reach out to us!
 
 ---
 
