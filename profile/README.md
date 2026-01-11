@@ -37,7 +37,7 @@ Current community partners include:
 
 ## Public Event Schedule
 
-Current public events are listed on [Boston Azure AI](https://bostonazureai.org).
+Current public Agent Framework Dev Day events are listed on [Boston Azure AI](https://bostonazureai.org).
 
 ---
 
